@@ -22,6 +22,17 @@ The **Task Management App** is a simple task management tool that allows users t
 ![Screenshot 2024-11-15 014313](https://github.com/user-attachments/assets/0f7995ca-0a24-4720-827c-efd5ed11ce6e)
 
 
+## Dependencies
+**react**: JavaScript library for building user interfaces.
+**react-hot-toast**: Library for adding toast notifications.
+**nanoid**: Generates unique task IDs.
+**react-icons**: Provides icons used throughout the app.
+**localStorage**: Native web API for storing data in the browser.
+**tailwindcss** : to make the component stylish
+**framer-motion**: to give some basic animation
+**react-hot-toast**: to show alert messages
+
+
 ## Setup and Launch Process
 
 To run the **Task Management App** locally, follow these steps:
