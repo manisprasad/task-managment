@@ -1,4 +1,4 @@
-![Screenshot 2024-11-15 015110](https://github.com/user-attachments/assets/0942fbcf-2dcd-4ace-9903-bb1c02d2020c)# Task Management App
+# Task Management App
 
 ## Overview
 The **Task Management App** is a simple task management tool that allows users to add, edit, delete, and track tasks. The app supports filtering tasks based on priority, completion status, and search functionality. It also allows sorting tasks by priority. The app stores tasks in `localStorage` for persistence across page refreshes.
